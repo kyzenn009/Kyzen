@@ -4,7 +4,7 @@ Yazılım geliştirme öğreniyorum. Şu anda Luau ve Python ile çalışıyorum
 
 Kod yazmayı seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
 
-## Teknolojiler
+## Programlama Dilleri
 
 - Luau
 - Python
