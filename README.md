@@ -1,20 +1,31 @@
-# Merhaba, Ben Kyzen
+## 🇹🇷 Merhaba, Ben Kyzen
 
-Yazılım geliştirme öğreniyorum. Şu anda Luau ve Python ile çalışıyorum.
+Yazılım geliştirmeyi öğreniyorum. Şu anda Luau ve Python ile çalışıyorum.
 
-Kod yazmayı seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum.
+Kod yazmayı seviyorum ve her gün kendimi geliştirmeye çalışıyorum.
 
-## Programlama Dilleri
+⸻
 
-- Luau
-- Python
+## 💻 Programlama Dilleri
 
-## Bana Ulaş
+* Luau
+* Python
 
-- Discord: wh2sp3rs
-- Roblox: raydn_ofcx31
+⸻
 
-## Mblox 
-mblox diye bir şeyle çalışıyorum
-  Mblox ne? Mblox birden fazla roblox açar,
-normalde bir roblox açıkken bir tane daha roblox açarsan önceki roblox kapanır ve yenisi açılır, Mblox açıksada eskisi kapanmaz ve 2 tane robloxu 2 farklı hesapta oynayabilirsin.
+## 📫 Bana Ulaş
+
+* Discord: wh2sp3rs
+* Roblox: raydn_ofcx31
+
+⸻
+
+## 🧩 Mblox (Geliştirme Aşamasında)
+
+Mblox, üzerinde çalıştığım bir projedir ve henüz yayınlanmamıştır.
+
+Amacı, aynı anda birden fazla Roblox istemcisini çalıştırabilmektir. Normalde Roblox açıkken yeni bir pencere açıldığında önceki oturum kapanır. Mblox ise bu davranışı değiştirmeyi hedefler ve birden fazla oturumun aynı anda açık kalmasını sağlar.
+
+Bu sayede farklı hesaplarla aynı anda Roblox oynanabilir.
+
+⚠️ Bu proje henüz yayınlanmadı ve aktif geliştirme aşamasındadır.
